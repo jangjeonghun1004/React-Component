@@ -13,4 +13,4 @@ function FunctionComponent() {
 
 const ArrowFunctionExpresstion = () => <p>Arrow Function Expresstion</p>;
 
- export { FunctionComponent, ArrowFunctionExpresstion, ClassComponent };
+export { FunctionComponent, ArrowFunctionExpresstion, ClassComponent };
